@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Winnipass\UnitConversionPhpPackageTest\Tests;
 
 use PHPUnit\Framework\TestCase;
 
